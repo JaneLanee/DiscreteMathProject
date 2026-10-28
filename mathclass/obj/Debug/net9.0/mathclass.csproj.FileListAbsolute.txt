@@ -1,0 +1,15 @@
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/bin/Debug/net9.0/mathclass
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/bin/Debug/net9.0/mathclass.deps.json
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/bin/Debug/net9.0/mathclass.runtimeconfig.json
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/bin/Debug/net9.0/mathclass.dll
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/bin/Debug/net9.0/mathclass.pdb
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.AssemblyInfoInputs.cache
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.AssemblyInfo.cs
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.csproj.CoreCompileInputs.cache
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.sourcelink.json
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.dll
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/refint/mathclass.dll
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.pdb
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/mathclass.genruntimeconfig.cache
+/Users/dylansmith/RiderProjects/DiscreteMathProject/mathclass/obj/Debug/net9.0/ref/mathclass.dll
